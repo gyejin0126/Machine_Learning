@@ -10,13 +10,14 @@ a:link, a:visited {
 .box {
   height: 60vh;
   width: 60vh;
-  max-height: 100vmin;
+  max-height: 90vmin;
+  max-width: 90vmin;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   outline: 1px solid gray;
-  outline-offset: -16px;
+  outline-offset: -1em;
 }
 .box-carousel{
   height: 100vh;
