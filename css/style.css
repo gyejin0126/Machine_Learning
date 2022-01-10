@@ -94,6 +94,7 @@ h3 {
   font-size: calc(15px + 3 * ((100vmin - 360px) / 100vmin));
 }
 
+
 @media screen and (maxwidth: 767) {
   body {
     margin: 10vmin 10vmin;
